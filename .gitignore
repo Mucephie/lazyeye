@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+lsa_150xxxx_catalogue.csv
+lsa_cat_mod-2.csv
+SDSS_DR9_NON_HC.csv
